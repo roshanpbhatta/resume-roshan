@@ -1,0 +1,9 @@
+.container {
+    background-color: green;
+  }
+
+  @media print {
+    .container {
+      width: auto;
+    }
+  }
